@@ -20,8 +20,9 @@
 
 编译环境
 -
+* CMake: 3.15
 * Linux: gcc 4.8
-* Windows: vs2015
+* Windows: vs2022
 
 整体框架
 -
